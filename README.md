@@ -22,33 +22,6 @@
 
 </div>
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-### 📊 Dashboard Layouts
-| Dark Mode | Light Mode |
-| :---: | :---: |
-| ![Dashboard Dark Mode](docs/screenshots/dashboard_dark.png) | ![Dashboard Light Mode](docs/screenshots/dashboard_light.png) |
-
-<br/>
-
-### 💬 AI Chat Assistant & Document Citations
-| AI Chat Interface | Document Citation Confidence |
-| :---: | :---: |
-| ![Chat Interface](docs/screenshots/chat_page.png) | ![Citations List](docs/screenshots/citations_list.png) |
-
-<br/>
-
-### 📁 Ingestion Hub & Analytics
-| Knowledge Base Upload | System Analytics Charts |
-| :---: | :---: |
-| ![Document Upload Page](docs/screenshots/documents_page.png) | ![System Analytics Page](docs/screenshots/analytics_page.png) |
-
-</div>
-
----
-
 ## ✨ Features
 
 ### 🔑 Authentication & Access Control
