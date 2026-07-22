@@ -12,7 +12,7 @@
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 
 <p align="center">
   <b>KnowledgeFlow AI</b> is an enterprise-grade Retrieval-Augmented Generation (RAG) platform. It allows organizations to index internal company documents (PDFs, DOCX, TXT, Markdown) into a high-performance vector store and query them via an AI assistant that delivers accurate, context-aware answers with verified source citations.
